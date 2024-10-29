@@ -27,8 +27,3 @@ OpenCV is used to handle video input, extracting frames and applying the trained
 Annotated frames are compiled back into a video, showing bounding boxes for detected objects.
 
 # output 
-
-
-
-https://github.com/user-attachments/assets/64721fd8-a9a7-4596-bbf9-2fb99478c93d
-
