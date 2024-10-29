@@ -25,3 +25,7 @@ Detections above a confidence threshold are annotated for visualization.
 Video Processing with OpenCV:
 OpenCV is used to handle video input, extracting frames and applying the trained model to detect helmet use.
 Annotated frames are compiled back into a video, showing bounding boxes for detected objects.
+
+# output 
+
+https://github.com/user-attachments/assets/80527ba6-bf6f-4635-8229-3e7913af38f7
