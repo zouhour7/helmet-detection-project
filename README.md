@@ -28,4 +28,7 @@ Annotated frames are compiled back into a video, showing bounding boxes for dete
 
 # output 
 
-https://github.com/user-attachments/assets/80527ba6-bf6f-4635-8229-3e7913af38f7
+
+
+https://github.com/user-attachments/assets/64721fd8-a9a7-4596-bbf9-2fb99478c93d
+
